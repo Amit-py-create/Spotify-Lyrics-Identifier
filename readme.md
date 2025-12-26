@@ -231,8 +231,3 @@ https://github.com/Amit-py-create/Spotify-Lyrics-Identifier
 
 
 
-* **Ultra-short README (1 page)**
-* **Viva Q&A**
-* **Resume description (2 lines)**
-
-Bas bolo 💪
