@@ -1,7 +1,4 @@
-Bilkul bhai 👍
-Neeche **DETAILED, assignment-perfect README.md** de raha hoon.
-Ye **college submission + GitHub evaluation + viva** sab ke liye safe hai.
-Tum **direct copy–paste** kar sakte ho.
+
 
 ---
 
